@@ -183,7 +183,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/t1gr3/setup-kali-i3?style=for-the-badge
 [issues-url]: https://github.com/t1gr3/setup-kali-i3/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/t1gr3/setup-kali-i3/LICENSE.txt
