@@ -185,7 +185,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 [issues-shield]: https://img.shields.io/github/issues/t1gr3/setup-kali-i3?style=for-the-badge
 [issues-url]: https://github.com/t1gr3/setup-kali-i3/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/t1gr3/setup-kali-i3?style=for-the-badge
 [license-url]: https://github.com/t1gr3/setup-kali-i3/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/willian-marin-garzon
