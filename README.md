@@ -40,15 +40,13 @@ Here's why:
 * I find it has a clean look and feel and you only invoke what you need.
 * Finally I like the way it looks :smile:
 
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Here you will find the parts and links of this project.
 
 * [Bash](https://www.gnu.org/software/bash/)
 * [Python](https://www.python.org/)
