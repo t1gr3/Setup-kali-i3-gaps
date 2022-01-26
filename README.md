@@ -54,6 +54,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Python](https://www.python.org/)
 * [Linux](https://www.linux.org/)
 * [Rofi](https://github.com/davatorium/rofi)
+* [I3status](https://github.com/Tazeg/i3status)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
