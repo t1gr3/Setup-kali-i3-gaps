@@ -80,6 +80,12 @@ _Below you will find the steps required to do the installation within our enviro
    ```sh
    ./setup.sh
    ```
+5. Size display (optional)
+   ```sh
+   In the file config of I3 > ~/.config/i3/config
+   Add line exec --no-startup-id xrandr --output OUTPUT --mode MODE
+   exec --no-startup-id xrandr --output Virtual-1 --mode 1920x1080
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
