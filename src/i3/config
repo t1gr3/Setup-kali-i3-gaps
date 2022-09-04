@@ -184,7 +184,6 @@ bar {
 	status_command exec ~/.config/i3status/mybar.sh
 }
 
-
 # Apps custom
 bindsym $mod+Shift+f exec firefox
 bindsym $mod+Shift+m exec dolphin
@@ -207,4 +206,3 @@ client.focused #bf7500 #bf7500 #bf7500 #ffe570
 # Gaps
 gaps outer 5
 gaps inner 5
-
